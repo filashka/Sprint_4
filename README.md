@@ -17,3 +17,5 @@
 * test_delete_book_from_favorites_delete_one_book.
 
 В проекте используются две фикстуры: collector и books_genre.
+
+В файл test_data.py вынесены  общие тестовые данные для фикстур и тестов.
